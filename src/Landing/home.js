@@ -1,6 +1,11 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import './home.css';
+import business from './img/business.png';
+import interview from './img/interview.png';
+import mentor from './img/mentor.png';
+import realtime from './img/realtime.png';
+import recriut from './img/recruit.png';
 
 class Home extends React.Component {
 	render() {
@@ -2630,13 +2635,20 @@ class Home extends React.Component {
 				<div class="texta">
 					<h2>Looking for a Job or an Internship?</h2>
 					<span>
-						Submit your Profile and get connected
+						Submit your profile and get connected
 						<br />
-						with Companies
+						with companies.
 						<br />
 					</span>
 				</div>
 				<div class="texta1">
+					<span>
+						Covid Opportunities is a nonprofit collaborative initiative by a group of startup entrepreneurs
+						and change makers to support students whose careers are affected by the Covid-19 outbreak. The
+						platform helps students gain work experience by working on some real time projects and problem
+						statements given by companies and helps students connect with recruiters for internships and
+						full time roles.
+					</span>
 					<span>
 						Whether you are a recently laid off candidate or a student seeking an opportunity, our platform
 						can help you showcase your profile to recruiters, hiring managers and employers across various
@@ -2645,31 +2657,51 @@ class Home extends React.Component {
 				</div>
 				<div class="texta2">
 					<h2 id="tit">Well! Your Internship got Cancelled?</h2>
-					<br />
 					<span>
 						There are a lot of talented and motivated students out there looking for an internship
 						opportunity to gain some work experience and take their career to the next level. Many students
 						are even worried about their placements and job opportunities due to the current pandemic as
 						many companies are laying off their employees and freezing their hiring process
 					</span>
-					<span id="tit" style={{ fontsize: '5em' }}>
-						You are not alone! We are there for You!
-					</span>
+					<span id="tit">You are not alone! We are there for You!</span>
 				</div>
 				<div class="texta3">
 					<h3 id="tit">
-						Get ready to learn and work on some interesting<br /> challenges and projects of companies.
+						Get ready to learn and work on some interesting challenges and projects of companies
 					</h3>
 					<br />
 					<span>
-						We have many exciting program for you to help you take your
-						<br />
-						career to the next level and connect you with companies
+						We have many exciting program for you to help you take your career to the next level and connect
+						you with companies.
 					</span>
 				</div>
-				<div class="texta4">
+				<section class="cards__home">
+					<div class="cards__card">
+						<img src={recriut} alt="business" class="card__img" />
+						<p class="card__text">Recruiter Sessions</p>
+					</div>
+					<div class="cards__card">
+						<img src={mentor} alt="ellipse" class="card__img" />
+						<p class="card__text">Mentorship Programs</p>
+					</div>
+					<div class="cards__card">
+						<img src={interview} alt="ellipse" class="card__img" />
+
+						<p class="card__text">Interviews for Internships and full time roles</p>
+					</div>
+					<div class="cards__card">
+						<img src={business} alt="ellipse" class="card__img" />
+
+						<p class="card__text">Business Use-case challenges</p>
+					</div>
+					<div class="cards__card">
+						<img src={realtime} alt="ellipse" class="card__img" />
+						<p class="card__text">Real time projects and problem statements by companies</p>
+					</div>
+				</section>
+				<footer class="texta4">
 					<h1>Let the Companies Hunt You!!</h1>
-				</div>
+				</footer>
 			</div>
 		);
 	}
