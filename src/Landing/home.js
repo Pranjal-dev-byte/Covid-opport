@@ -2304,7 +2304,7 @@ class Home extends React.Component {
 						<p class="card__text">Real time projects and problem statements by companies</p>
 					</div>
 				</section>
-				<footer class="texta4" data-aos="fade-up">
+				<footer class="texta4">
 					<div class="texta4__text">
 						<h1 class="texta4__heading">Let the Companies Hunt You!!</h1>
 						<button class="texta4__button">Get started!</button>
