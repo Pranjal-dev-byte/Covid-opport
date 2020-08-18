@@ -6,7 +6,6 @@ import interview from './img/interview.png';
 import mentor from './img/mentor.png';
 import realtime from './img/realtime.png';
 import recriut from './img/recruit.png';
-import illust from './img/illust.jpg';
 import footer from './img/footer-2.png';
 import mg from './img/1mg.png';
 import stdibs from './img/1stdibs.png';
@@ -14,6 +13,8 @@ import active from './img/ActivePipe.png';
 import hooz from './img/Hoozing.png';
 import africa from './img/HouseAfrica.png';
 import pass from './img/Accupass.jfif';
+import footer1 from './img/footer.svg';
+import illust from './img/illustrate.svg';
 
 class Home extends React.Component {
 	render() {
@@ -2310,7 +2311,7 @@ class Home extends React.Component {
 						<button class="texta4__button">Get started!</button>
 					</div>
 					<div class="texta4__bg">
-						<img class="texta4__img" src={footer} alt="footer" />
+						<img src={footer1} alt="footer" class="texta4__img" />
 					</div>
 				</footer>
 			</div>

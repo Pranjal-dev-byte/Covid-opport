@@ -6,7 +6,9 @@
 	font-size: 10px;
 	/* overflow-x: hidden; */
 }
-
+.container {
+	padding: 0 !important;
+}
 #ima {
 	width: 95rem;
 	height: 75rem;
@@ -192,6 +194,7 @@ span #tit {
 	margin-left: 8rem;
 }
 .texta3__img {
+	z-index: -2;
 	height: 50rem;
 }
 #tit {
@@ -270,7 +273,7 @@ span #tit {
 .texta4__bg {
 	position: relative;
 	display: inline-block;
-	width: 120%;
+	width: 100%;
 	height: 35rem;
 }
 .texta4__img {
