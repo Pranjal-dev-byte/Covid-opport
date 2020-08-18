@@ -6,6 +6,14 @@ import interview from './img/interview.png';
 import mentor from './img/mentor.png';
 import realtime from './img/realtime.png';
 import recriut from './img/recruit.png';
+import illust from './img/illust.jpg';
+import footer from './img/footer-2.png';
+import mg from './img/1mg.png';
+import stdibs from './img/1stdibs.png';
+import active from './img/ActivePipe.png';
+import hooz from './img/Hoozing.png';
+import africa from './img/HouseAfrica.png';
+import pass from './img/Accupass.jfif';
 
 class Home extends React.Component {
 	render() {
@@ -2191,448 +2199,7 @@ class Home extends React.Component {
 						/>
 					</g>
 				</svg>
-				<svg
-					id="ima5"
-					xmlns="http://www.w3.org/2000/svg"
-					xlink="http://www.w3.org/1999/xlink"
-					width="583.633"
-					height="350.41"
-					viewBox="0 0 583.633 350.41"
-				>
-					<defs>
-						<clipPath id="clip-path">
-							<rect width="583.633" height="350.41" fill="none" />
-						</clipPath>
-						<linearGradient
-							id="linear-gradient"
-							x1="0.538"
-							y1="0.919"
-							x2="0.433"
-							y2="0.181"
-							gradientUnits="objectBoundingBox"
-						>
-							<stop offset="0" stop-color="#f79239" />
-							<stop offset="1" stop-color="#f7c759" />
-						</linearGradient>
-						<linearGradient
-							id="linear-gradient-2"
-							y1="0.5"
-							x2="1"
-							y2="0.5"
-							gradientUnits="objectBoundingBox"
-						>
-							<stop offset="0" stop-color="#3f2323" />
-							<stop offset="1" stop-color="#5e3434" />
-						</linearGradient>
-					</defs>
-					<g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
-						<g id="Group_641" data-name="Group 641" transform="translate(-416.5 -54.852)">
-							<g id="Group_17" data-name="Group 17" transform="translate(432.47 54.852)">
-								<path
-									id="Path_43"
-									data-name="Path 43"
-									d="M987.958,298.613c-.158.9-.316,1.784-.474,2.665-11.36,63.872-44.606,91.946-44.606,91.946h-498.8s-30.513-56.08-17.1-105.023c.2-.745.407-1.491.632-2.213,8.831-29.135,33.743-55.38,90.658-65.25,12.241-2.123,23.512-4.156,33.9-6.1,1.468-.294,2.891-.565,4.314-.836,36.114-6.911,61.3-13.077,80.449-20.124h.023c1.4-.519,2.778-1.062,4.133-1.581,38.915-15.313,52.218-35.211,87.09-75.639q4.065-4.709,8.673-9.237c.677-.678,1.355-1.333,2.055-1.965a192.89,192.89,0,0,1,70.715-42.235c.723-.248,1.446-.5,2.168-.723,34.488-10.931,71.957-11.089,103.645,8.04,1.2.723,2.394,1.468,3.591,2.259,25.092,16.555,46.232,45.8,58.858,92.126C992.972,220.128,993.6,264.373,987.958,298.613Z"
-									transform="translate(-423.571 -54.852)"
-									fill="#e4ebf7"
-								/>
-								<g id="Group_16" data-name="Group 16" transform="translate(3.409 7.449)">
-									<path
-										id="Path_44"
-										data-name="Path 44"
-										d="M764.077,167.478c-7.182,36.2-31.868,65.317-73.358,86.57C609.185,295.764,576.73,347.959,563.9,384.592H561.53l.068-.2c12.851-37.063,45.51-90.094,128.083-132.351,40.857-20.914,65.136-49.507,72.183-84.989,7.25-36.589-5.036-74.961-20.056-105.339,1.2.723,2.394,1.468,3.591,2.259C759.853,94.143,771.169,131.635,764.077,167.478Z"
-										transform="translate(-253.351 -53.67)"
-										fill="#fff"
-									/>
-									<path
-										id="Path_45"
-										data-name="Path 45"
-										d="M782.161,162.78c-.158.9-.316,1.784-.474,2.665-29.2,13.438-66.446,27.871-113.628,42.235C630.7,219.04,604.481,235.709,589.8,257.391h-2.71c14.793-22.744,41.715-40.134,80.314-51.879C715.285,190.944,752.845,176.331,782.161,162.78Z"
-										transform="translate(-221.182 73.532)"
-										fill="#fff"
-									/>
-									<path
-										id="Path_46"
-										data-name="Path 46"
-										d="M743.157,95.122C743.134,134.489,731.57,188.084,676.71,220c-23.24,13.529-49.349,18.61-75.5,18.61-35.5,0-71.076-9.373-99.67-19.83-7.25-2.643-14.3-5.443-21.027-8.289,1.468-.294,2.891-.565,4.314-.836,56.486,23.286,132.938,42.032,190.757,8.4,53.934-31.371,65.295-84.176,65.317-122.933a233.71,233.71,0,0,0-2.936-36.25c.723-.248,1.446-.5,2.168-.723A236.611,236.611,0,0,1,743.157,95.122Z"
-										transform="translate(-355.319 -58.15)"
-										fill="#fff"
-									/>
-									<path
-										id="Path_47"
-										data-name="Path 47"
-										d="M614.287,147.456c-11,14.522-30.468,21.8-58.158,21.8a224.8,224.8,0,0,1-38.079-3.659c1.4-.519,2.778-1.062,4.133-1.581,45.419,7.3,75.729,1.31,90.3-17.91,13.055-17.188,11.632-42.777,5.466-66.966.677-.678,1.355-1.333,2.055-1.965C626.573,102.195,628.222,129.094,614.287,147.456Z"
-										transform="translate(-308.073 -34.212)"
-										fill="#fff"
-									/>
-									<path
-										id="Path_48"
-										data-name="Path 48"
-										d="M692.7,264.426h-2.326c-4.788-18.9-13.664-39.321-29.858-55.9-26.538-27.17-66.831-38.531-119.748-33.72-48.446,4.382-87.2-.791-115.683-15.4.2-.745.407-1.491.632-2.213,28.142,14.568,66.6,19.717,114.847,15.358,53.663-4.856,94.543,6.73,121.578,34.42C678.805,224.043,687.862,245.048,692.7,264.426Z"
-										transform="translate(-425.08 66.497)"
-										fill="#fff"
-									/>
-								</g>
-							</g>
-							<g id="Group_18" data-name="Group 18" transform="translate(429.487 281.324)">
-								<path
-									id="Path_49"
-									data-name="Path 49"
-									d="M489.076,245.749s12.987-29.079-16.939-51.664-36.7-38.96-36.7-38.96-10.109,53.033,8.187,78.2v36.419h44.3Z"
-									transform="translate(-409.162 -155.125)"
-									fill="#4e8fb7"
-								/>
-								<path
-									id="Path_50"
-									data-name="Path 50"
-									d="M445.786,239.138s-1.468-20.327,18.771-33.935S484.5,177.875,484.5,177.875s15.546,38.928-4.106,61.263Z"
-									transform="translate(-392.659 -126.493)"
-									fill="#70b2dd"
-								/>
-								<path
-									id="Path_51"
-									data-name="Path 51"
-									d="M479.87,247.161S483,219.777,457.438,205.1s-30.926-33.6-30.926-33.6-14.116,47.712,9.034,75.661Z"
-									transform="translate(-422.25 -134.516)"
-									fill="#abdaf7"
-								/>
-							</g>
-							<g id="Group_26" data-name="Group 26" transform="translate(595.591 115.782)">
-								<g id="Group_21" data-name="Group 21" transform="translate(19.142 107.396)">
-									<g id="Group_19" data-name="Group 19" transform="translate(0 114.22)">
-										<path
-											id="Path_52"
-											data-name="Path 52"
-											d="M535.009,181.754c-7.876,13.136-18.229,25.655-30.739,37.636v13.655H534.8s9.648-5.195,28.979-19.966C563.783,213.08,570.123,170.839,535.009,181.754Z"
-											transform="translate(-504.27 -179.952)"
-											fill="#f49187"
-										/>
-										<path
-											id="Path_53"
-											data-name="Path 53"
-											d="M628.454,204.311s-1.423,27.1-8.2,28.8-34.538-23.444-34.538-23.444l-3.158-11.993,20.569-15S627.618,190.195,628.454,204.311Z"
-											transform="translate(-405.738 -176.535)"
-											fill="#f49187"
-										/>
-									</g>
-									<g id="Group_20" data-name="Group 20" transform="translate(30.534)">
-										<path
-											id="Path_54"
-											data-name="Path 54"
-											d="M709.971,271.375c-6.5-12.422-46.594-3.388-46.594-3.388L691.9,296.693h-128.2c4.246-14.771,1.717-50.727,1.717-50.727-.023.271-.068.519-.113.791-1.875,14.432-9.509,22.066-9.509,22.066-.542,7.363-9.034,7.9-9.034,7.9a49.916,49.916,0,0,0-4.359-16.284c-8.334-17.233-24.415-15.042-24.415-15.042-1.716-9.034,7.9-11.293,7.9-11.293s11.835-68.886,29.068-82.437S600.3,131.345,600.3,131.345l28.932-1.965s56.735,11.293,68.028,30.761,9.328,93.165,9.328,93.165C715.618,260.647,709.971,271.375,709.971,271.375Z"
-											transform="translate(-517.789 -129.38)"
-											fill="url(#linear-gradient)"
-										/>
-										<path
-											id="Path_55"
-											data-name="Path 55"
-											d="M638.727,234.327s4.8-41.783-10.728-78.2c0,0,2.541,55.334-20.045,70.862s-60.981,12.422-70.58,39.525l84.7-.752Z"
-											transform="translate(-493.139 -95.72)"
-											fill="#f6613a"
-											opacity="0.5"
-										/>
-										<path
-											id="Path_56"
-											data-name="Path 56"
-											d="M551.592,209.214c-1.875,14.432-9.509,22.066-9.509,22.066-.542,7.363-9.034,7.9-9.034,7.9A49.918,49.918,0,0,0,528.69,222.9a47.806,47.806,0,0,0,12.557-20.869c5.985-19.785,2.168-41.286,1.9-42.822C548.023,177.708,550.688,200.406,551.592,209.214Z"
-											transform="translate(-504.07 -91.837)"
-											fill="#f6613a"
-											opacity="0.5"
-										/>
-									</g>
-								</g>
-								<path
-									id="Path_57"
-									data-name="Path 57"
-									d="M566,205.719s31.9-22.3,59-13.269,24.844,27.667,16.092,31.055H573.528Z"
-									transform="translate(-407.437 54.682)"
-									fill="#feb19e"
-								/>
-								<g id="Group_22" data-name="Group 22" transform="translate(75.849)">
-									<path
-										id="Path_58"
-										data-name="Path 58"
-										d="M594.966,151.842s-6.64,37.266-26.4,37.469c-17.255.158-13.258-22.473-11.97-28.232.181-.858.316-1.333.316-1.333l-7.159-27.283,38.011-20.124.768,4.178v.068Z"
-										transform="translate(-503.737 -43.43)"
-										fill="#feb19e"
-									/>
-									<path
-										id="Path_59"
-										data-name="Path 59"
-										d="M556.593,161.08c.181-.858.316-1.333.316-1.333l-7.159-27.283,38.011-20.124.768,4.178v.068C593.521,161.08,557.294,161.08,556.593,161.08Z"
-										transform="translate(-503.737 -43.43)"
-										fill="#ff856a"
-									/>
-									<path
-										id="Path_60"
-										data-name="Path 60"
-										d="M618.443,137.409a66.744,66.744,0,0,0,6.211-22.163c1.129-11.575-2.116-14.256-6.916-14.256,0,0-2.541-13.129-8.612-17.646s-30.773,2.119-40.229,7.765-16.374-9.908-20.752-9.26-5.222,12.648-1.834,18.012c0,0-7.905-4.377-9.177-8.894s-10.3,3.67-7.058,20.469S540.8,130.351,540.8,130.351s1.411,17.786,15.952,19.762,52.934-1.412,52.934-1.412Z"
-										transform="translate(-529.377 -81.829)"
-										fill="url(#linear-gradient-2)"
-									/>
-									<path
-										id="Path_61"
-										data-name="Path 61"
-										d="M538.875,108.187s7.058,48.277,24.844,54.488,32.654-12.777,34.913-17.858,3.209-15.733,3.209-15.733,6.06,1.407,6.767-9.321-8.612-17.079-10.87,1.412c0,0-8.7-4.8-6.069-21.174,0,0-9.976,9.411-23.9,9.411S565.883,100,565.883,100,555.909,109.222,538.875,108.187Z"
-										transform="translate(-517.424 -58.96)"
-										fill="#feb19e"
-									/>
-								</g>
-								<g id="Group_25" data-name="Group 25" transform="translate(0 226.64)">
-									<g id="Group_23" data-name="Group 23" transform="translate(92.5 30.468)">
-										<rect
-											id="Rectangle_3"
-											data-name="Rectangle 3"
-											width="115.939"
-											height="6.211"
-											transform="translate(0 14.869)"
-											fill="#abdaf7"
-										/>
-										<rect
-											id="Rectangle_4"
-											data-name="Rectangle 4"
-											width="35.76"
-											height="6.211"
-											transform="translate(80.179 14.869)"
-											fill="#70b2dd"
-										/>
-										<path
-											id="Path_62"
-											data-name="Path 62"
-											d="M604.8,210.723s-10.254-15.3-25.634-15.053c-11.638.185-12.07,7.526-12.07,7.526s-7.648-.91-7.844,7.528Z"
-											transform="translate(-508.433 -195.667)"
-											fill="#ffc7ae"
-										/>
-									</g>
-									<g id="Group_24" data-name="Group 24">
-										<path
-											id="Path_63"
-											data-name="Path 63"
-											d="M540.488,213.249s.565-8.47-3.2-9.6-6.588,2.069-6.588,2.069-2.823-12.422-13.364-12.8-29.549,10.351-17.879,20.327Z"
-											transform="translate(-495.795 -168.665)"
-											fill="#feb19e"
-										/>
-										<path
-											id="Path_64"
-											data-name="Path 64"
-											d="M566.8,205.4a3.48,3.48,0,0,1-3.478,3.478H499.9a3.478,3.478,0,0,1,0-6.956h63.42A3.48,3.48,0,0,1,566.8,205.4Z"
-											transform="translate(-495.007 -157.329)"
-											fill="#70b2dd"
-										/>
-										<path
-											id="Path_65"
-											data-name="Path 65"
-											d="M547.983,205.4a3.48,3.48,0,0,1-3.478,3.478H499.9a3.478,3.478,0,0,1,0-6.956H544.5A3.48,3.48,0,0,1,547.983,205.4Z"
-											transform="translate(-495.007 -157.329)"
-											fill="#abdaf7"
-										/>
-										<path
-											id="Path_66"
-											data-name="Path 66"
-											d="M521.729,221.162l-11.243-36.738a3.175,3.175,0,0,0-3.858-2.139h0a3.174,3.174,0,0,0-2.152,4.19l13.441,35.674A2.873,2.873,0,0,0,521.729,221.162Z"
-											transform="translate(-485.128 -182.177)"
-											fill="#525559"
-										/>
-									</g>
-								</g>
-							</g>
-							<g id="Group_28" data-name="Group 28" transform="translate(460.411 230.608)">
-								<path
-									id="Path_67"
-									data-name="Path 67"
-									d="M486.21,165.729c1.224,7.41-1.441,14.023-5.954,14.769s-9.163-4.657-10.389-12.07,1.443-14.021,5.954-14.766S484.985,158.319,486.21,165.729Z"
-									transform="translate(-393.621 -106.338)"
-									fill="#fff"
-									stroke="#f230db"
-									stroke-miterlimit="10"
-									stroke-width="1"
-								/>
-								<path
-									id="Path_68"
-									data-name="Path 68"
-									d="M597.152,257.365h-120.4a12.922,12.922,0,0,1-11.97-8.153c-14.093-35.188-24.505-69.405-28.729-102a12.89,12.89,0,0,1,12.783-14.545H570.885A12.857,12.857,0,0,1,583.6,143.647c4.585,30.2,13.551,62.562,25.7,96.553A12.874,12.874,0,0,1,597.152,257.365Z"
-									transform="translate(-435.942 -132.67)"
-									fill="#90c6e0"
-								/>
-								<path
-									id="Path_69"
-									data-name="Path 69"
-									d="M592.274,257.365H476.749a12.922,12.922,0,0,1-11.97-8.153c-14.093-35.188-24.505-69.405-28.729-102a12.89,12.89,0,0,1,12.783-14.545H565.984a12.9,12.9,0,0,1,12.738,10.977c4.562,30.2,13.529,62.562,25.68,96.553A12.861,12.861,0,0,1,592.274,257.365Z"
-									transform="translate(-435.942 -132.67)"
-									fill="#abdaf7"
-								/>
-								<g id="Group_27" data-name="Group 27" transform="translate(75.415 104.345)">
-									<path
-										id="Path_70"
-										data-name="Path 70"
-										d="M544.317,237.886H498.062a15.762,15.762,0,0,1-14.884-10.615l-13.845-48.378c7.656.023,15.177-.023,22.563-.023,2.462,0,4.924,0,7.363.023l11.022,37.627a12.478,12.478,0,0,0,9.757,8.018l17.3,2.71a7.153,7.153,0,0,1,5.872,5.533Z"
-										transform="translate(-469.333 -178.87)"
-										fill="#90c6e0"
-									/>
-									<path
-										id="Path_71"
-										data-name="Path 71"
-										d="M507.464,224.538l-3.907-.361a14.683,14.683,0,0,1-12.354-9.125l-11.88-36.182c2.462,0,4.924,0,7.363.023l11.022,37.627A12.478,12.478,0,0,0,507.464,224.538Z"
-										transform="translate(-456.76 -178.87)"
-										fill="#90c6e0"
-										opacity="0.35"
-									/>
-								</g>
-								<path
-									id="Path_72"
-									data-name="Path 72"
-									d="M485.775,165.9c1.714,7.153-.481,13.811-4.9,14.87s-9.4-3.878-11.112-11.033.479-13.811,4.9-14.87S484.058,158.746,485.775,165.9Z"
-									transform="translate(-394.117 -104.913)"
-									fill="#fff"
-								/>
-							</g>
-							<g id="Group_29" data-name="Group 29" transform="translate(416.5 393.381)">
-								<rect
-									id="Rectangle_5"
-									data-name="Rectangle 5"
-									width="549.957"
-									height="11.293"
-									transform="translate(0 0.588)"
-									fill="#70b2dd"
-								/>
-								<rect
-									id="Rectangle_6"
-									data-name="Rectangle 6"
-									width="121"
-									height="11"
-									transform="translate(428.838 0.47)"
-									fill="#4e8fb7"
-								/>
-							</g>
-							<g id="Group_30" data-name="Group 30" transform="translate(886.843 302.473)">
-								<path
-									id="Path_73"
-									data-name="Path 73"
-									d="M646.771,202.832l-5.27-32.749-16.751,2.07,6.211,32.557Z"
-									transform="translate(-624.75 -157.449)"
-									fill="#70b2dd"
-								/>
-								<path
-									id="Path_74"
-									data-name="Path 74"
-									d="M634.285,206.862l5.8-40.417a2.279,2.279,0,0,1,2.631-1.924h0a2.28,2.28,0,0,1,1.877,2.593l-6.435,41.819H640.6l8.625-32.04a2.339,2.339,0,0,1,2.823-1.66h0a2.337,2.337,0,0,1,1.694,2.859l-8.061,30.841-8.092,3.763Z"
-									transform="translate(-612.75 -164.489)"
-									fill="#4e8fb7"
-								/>
-								<path
-									id="Path_75"
-									data-name="Path 75"
-									d="M662.7,183.25v41.693a6.685,6.685,0,0,1-6.685,6.685H631.935a6.685,6.685,0,0,1-6.686-6.685V183.25Z"
-									transform="translate(-624.121 -140.878)"
-									fill="#abdaf7"
-								/>
-								<rect
-									id="Rectangle_7"
-									data-name="Rectangle 7"
-									width="37.454"
-									height="9.78"
-									transform="translate(1.129 42.372)"
-									fill="#90c6e0"
-								/>
-							</g>
-							<g id="Group_31" data-name="Group 31" transform="translate(819.726 70.632)">
-								<circle
-									id="Ellipse_3"
-									data-name="Ellipse 3"
-									cx="53.279"
-									cy="53.279"
-									r="53.279"
-									transform="translate(14.726 17.722)"
-									fill="#70b2dd"
-									opacity="0.35"
-								/>
-								<circle
-									id="Ellipse_4"
-									data-name="Ellipse 4"
-									cx="50.133"
-									cy="50.133"
-									r="50.133"
-									transform="translate(0 44.273) rotate(-26.203)"
-									fill="#70b2dd"
-								/>
-								<circle
-									id="Ellipse_5"
-									data-name="Ellipse 5"
-									cx="36.883"
-									cy="36.883"
-									r="36.883"
-									transform="translate(25.141 98.081) rotate(-81.414)"
-									fill="#abdaf7"
-								/>
-								<path
-									id="Path_76"
-									data-name="Path 76"
-									d="M647.981,106.45H629.809V81.9a3.508,3.508,0,0,0-7.015,0v30.994h25.187a3.221,3.221,0,0,0,0-6.441Z"
-									transform="translate(-560.094 -41.008)"
-									fill="#70b2dd"
-								/>
-							</g>
-						</g>
-					</g>
-				</svg>
-				<svg
-					id="ima6"
-					xmlns="http://www.w3.org/2000/svg"
-					xlink="http://www.w3.org/1999/xlink"
-					width="637.112"
-					height="323"
-					viewBox="0 0 637.112 323"
-				>
-					<defs>
-						<linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
-							<stop offset="0" stop-color="#55dcf5" />
-							<stop offset="1" stop-color="#7db2fd" />
-						</linearGradient>
-						<linearGradient
-							id="linear-gradient-2"
-							y1="0.375"
-							x2="0.969"
-							y2="0.893"
-							gradientUnits="objectBoundingBox"
-						>
-							<stop offset="0" stop-color="#a4caff" />
-							<stop offset="1" stop-color="#b1ecfb" />
-						</linearGradient>
-					</defs>
-					<g id="Group_753" data-name="Group 753" transform="translate(54.784 -2538)">
-						<path
-							id="Path_2160"
-							data-name="Path 2160"
-							d="M6365.822-1437.831s-95.044-19.2-155.526-48.91-86.4-69.943-86.4-69.943-61.562-93.6-155.525-139.887-220.329-45.258-220.329-45.258v304Z"
-							transform="translate(-5802.822 4279.831)"
-							fill="#ddeaf5"
-						/>
-						<path
-							id="Path_2159"
-							data-name="Path 2159"
-							d="M6353.149-1468s-93.094-17.292-152.336-44.056-84.631-63-84.631-63-60.3-84.312-152.335-126-215.809-40.766-215.809-40.766V-1468Z"
-							transform="translate(-5770.821 4329)"
-							fill="url(#linear-gradient)"
-						/>
-						<path
-							id="Path_2161"
-							data-name="Path 2161"
-							d="M1122.97-2917.89s-62.57-10.706-100.763-22.212-69.585-34.546-69.585-34.546-52.694-28-103.18-45.038-98.761-23.115-98.761-23.115-42.1-6.344-77.461-4.649a259.734,259.734,0,0,0-63.972,11.431v137.577a212.35,212.35,0,0,1,58.093-29.065c33.357-10.415,75.335-12.6,75.335-12.6s27.687-3.352,102.74,3.916c36.326,3.517,122.651,16.769,122.651,16.769l71.057,6.27s24.343.255,42.938,0S1122.97-2917.89,1122.97-2917.89Z"
-							transform="translate(-632.033 5740.268)"
-							fill="url(#linear-gradient-2)"
-						/>
-						<circle
-							id="Ellipse_42"
-							data-name="Ellipse 42"
-							cx="46.5"
-							cy="46.5"
-							r="46.5"
-							transform="translate(489.215 2719)"
-							fill="#1d52e7"
-							opacity="0.74"
-						/>
-					</g>
-				</svg>
-				<div class="texta">
+				<div class="texta" data-aos="fade-right">
 					<h2>Looking for a Job or an Internship?</h2>
 					<span>
 						Submit your profile and get connected
@@ -2641,7 +2208,40 @@ class Home extends React.Component {
 						<br />
 					</span>
 				</div>
-				<div class="texta1">
+				<div class="texta1" data-aos="fade-up">
+					<span>
+						We partner with the leading tech companies and startups with the enormous potential to secure
+						the best opportunities for students.
+					</span>
+					<span>
+						<h2 id="tit">Find tech companies that are hiring amidst Covid outbreak</h2>
+					</span>
+					<span class="texta1__images" data-aos="fade-up">
+						<img class="texta1__img" src={stdibs} alt="image" />
+						<img class="texta1__img" src={mg} alt="image" />
+						<img class="texta1__img" src={active} alt="image" />
+						<img class="texta1__img" src={mg} alt="image" />
+						<img class="texta1__img" src={hooz} alt="image" />
+						<img class="texta1__img" src={mg} alt="image" />
+						<img class="texta1__img" src={africa} alt="image" />
+						<img class="texta1__img" src={mg} alt="image" />
+						<img class="texta1__img" src={pass} alt="image" />
+						<img class="texta1__img" src={mg} alt="image" />
+						<img class="texta1__img" src={mg} alt="image" />
+						<img class="texta1__img" src={stdibs} alt="image" />
+						<img class="texta1__img" src={stdibs} alt="image" />
+						<img class="texta1__img" src={mg} alt="image" />
+						<img class="texta1__img" src={active} alt="image" />
+						<img class="texta1__img" src={mg} alt="image" />
+						<img class="texta1__img" src={hooz} alt="image" />
+						<img class="texta1__img" src={mg} alt="image" />
+						<img class="texta1__img" src={africa} alt="image" />
+						<img class="texta1__img" src={mg} alt="image" />
+						<img class="texta1__img" src={pass} alt="image" />
+						<img class="texta1__img" src={mg} alt="image" />
+						<img class="texta1__img" src={mg} alt="image" />
+						<img class="texta1__img" src={stdibs} alt="image" />
+					</span>
 					<span>
 						Covid Opportunities is a nonprofit collaborative initiative by a group of startup entrepreneurs
 						and change makers to support students whose careers are affected by the Covid-19 outbreak. The
@@ -2655,7 +2255,7 @@ class Home extends React.Component {
 						Companies and emerging startups.
 					</span>
 				</div>
-				<div class="texta2">
+				<div class="texta2" data-aos="fade-left">
 					<h2 id="tit">Well! Your Internship got Cancelled?</h2>
 					<span>
 						There are a lot of talented and motivated students out there looking for an internship
@@ -2665,17 +2265,22 @@ class Home extends React.Component {
 					</span>
 					<span id="tit">You are not alone! We are there for You!</span>
 				</div>
-				<div class="texta3">
-					<h3 id="tit">
-						Get ready to learn and work on some interesting challenges and projects of companies
-					</h3>
-					<br />
-					<span>
-						We have many exciting program for you to help you take your career to the next level and connect
-						you with companies.
-					</span>
+				<div class="texta3__container">
+					<div class="texta3" data-aos="fade-right">
+						<h3 id="tit">
+							Get ready to learn and work on some interesting challenges and projects of companies
+						</h3>
+						<br />
+						<span>
+							We have many exciting program for you to help you take your career to the next level and
+							connect you with companies.
+						</span>
+					</div>
+					<div class="texta3__illust">
+						<img class="texta3__img" src={illust} />
+					</div>
 				</div>
-				<section class="cards__home">
+				<section class="cards__home" data-aos="fade-up">
 					<div class="cards__card">
 						<img src={recriut} alt="business" class="card__img" />
 						<p class="card__text">Recruiter Sessions</p>
@@ -2699,8 +2304,14 @@ class Home extends React.Component {
 						<p class="card__text">Real time projects and problem statements by companies</p>
 					</div>
 				</section>
-				<footer class="texta4">
-					<h1>Let the Companies Hunt You!!</h1>
+				<footer class="texta4" data-aos="fade-up">
+					<div class="texta4__text">
+						<h1 class="texta4__heading">Let the Companies Hunt You!!</h1>
+						<button class="texta4__button">Get started!</button>
+					</div>
+					<div class="texta4__bg">
+						<img class="texta4__img" src={footer} alt="footer" />
+					</div>
 				</footer>
 			</div>
 		);
