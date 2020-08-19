@@ -2296,6 +2296,15 @@ class Home extends React.Component {
 				</div>
 				<section class="cards__home" data-aos="fade-up">
 					<div class="cards__card">
+						<img src={interview} alt="ellipse" class="card__img" />
+
+						<p class="card__text">Interviews for Internships and full time roles</p>
+					</div>
+					<div class="cards__card">
+						<img src={realtime} alt="ellipse" class="card__img" />
+						<p class="card__text">Real time projects and problem statements by companies</p>
+					</div>
+					<div class="cards__card">
 						<img src={recriut} alt="business" class="card__img" />
 						<p class="card__text">Recruiter Sessions</p>
 					</div>
@@ -2304,18 +2313,9 @@ class Home extends React.Component {
 						<p class="card__text">Mentorship Programs</p>
 					</div>
 					<div class="cards__card">
-						<img src={interview} alt="ellipse" class="card__img" />
-
-						<p class="card__text">Interviews for Internships and full time roles</p>
-					</div>
-					<div class="cards__card">
 						<img src={business} alt="ellipse" class="card__img" />
 
 						<p class="card__text">Business Use-case challenges</p>
-					</div>
-					<div class="cards__card">
-						<img src={realtime} alt="ellipse" class="card__img" />
-						<p class="card__text">Real time projects and problem statements by companies</p>
 					</div>
 				</section>
 				<footer class="texta4">
