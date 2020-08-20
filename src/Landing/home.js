@@ -14,6 +14,7 @@ import hooz from './img/Hoozing.png';
 import africa from './img/HouseAfrica.png';
 import pass from './img/Accupass.jfif';
 import illust from './img/illustrate.svg';
+import ima from './img/ima.svg';
 
 class Home extends React.Component {
 	render() {
@@ -55,7 +56,8 @@ class Home extends React.Component {
 						<span>Submit your profile and get connected with companies.</span>
 					</div>
 					<div class="texta__illust">
-						<svg
+						<img src={ima} id="ima" alt="illustratin" />
+						{/*	<svg
 							id="ima"
 							xmlns="http://www.w3.org/2000/svg"
 							xlink="http://www.w3.org/1999/xlink"
@@ -135,7 +137,7 @@ class Home extends React.Component {
 									fill="#e2f2ff"
 								/>
 							</g>
-						</svg>
+						</svg> */}
 						{/* <svg
 							id="ima1"
 							xmlns="http://www.w3.org/2000/svg"
